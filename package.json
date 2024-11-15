@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@apollo/server": "^4.11.2",
+    "express": "^4.21.1",
+    "mailersend": "^2.3.0",
+    "mailtrap": "^3.4.0",
+    "nodemailer": "^6.9.16"
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
